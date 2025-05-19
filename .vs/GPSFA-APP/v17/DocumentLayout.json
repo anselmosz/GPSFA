@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFA-APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A667E97-7B97-4931-B480-3299094E9666}|GPSFA\\GPSFA.csproj|c:\\users\\matheus.sanselmo1\\documents\\visual studio 2022\\gpsfa-app\\gpsfa\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A667E97-7B97-4931-B480-3299094E9666}|GPSFA\\GPSFA.csproj|solutionrelative:gpsfa\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A667E97-7B97-4931-B480-3299094E9666}|GPSFA\\GPSFA.csproj|c:\\users\\matheus.sanselmo1\\documents\\visual studio 2022\\gpsfa-app\\gpsfa\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A667E97-7B97-4931-B480-3299094E9666}|GPSFA\\GPSFA.csproj|solutionrelative:gpsfa\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFA-APP\\GPSFA\\frmLogin.cs",
+              "RelativeDocumentMoniker": "GPSFA\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFA-APP\\GPSFA\\frmLogin.cs [Design]",
+              "RelativeToolTip": "GPSFA\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:24:47.703Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSplash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFA-APP\\GPSFA\\frmSplash.cs",
+              "RelativeDocumentMoniker": "GPSFA\\frmSplash.cs",
+              "ToolTip": "C:\\Users\\matheus.sanselmo1\\Documents\\Visual Studio 2022\\GPSFA-APP\\GPSFA\\frmSplash.cs [Design]",
+              "RelativeToolTip": "GPSFA\\frmSplash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:15:48.368Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

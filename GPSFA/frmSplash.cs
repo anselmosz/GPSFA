@@ -37,7 +37,7 @@ namespace GPSFA
                 tmrSplash.Enabled = false;
 
                 frmLogin abrir = new frmLogin();
-                abrir.Show();
+                abrir.Show();   
                 this.Hide();
             }
         }
